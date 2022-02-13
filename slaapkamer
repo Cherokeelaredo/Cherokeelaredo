@@ -1,68 +1,62 @@
 #EXTM3U
 #EXTINF:0,group,|EU| NETHERLANDS HD
-#EXTINF:0,NPO1.nl,NL - NPO 1 HD ◉
+#EXTINF:0,NPO 1 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259525
-#EXTINF:0,NPO2.nl,NL - NPO 2 HD ◉
+#EXTINF:0,NPO 2 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259526
-#EXTINF:0,NPO3.nl,NL - NPO 3 HD ◉
+#EXTINF:0,NPO 3 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259527
-#EXTINF:0,RTL4.nl,NL - RTL 4 HD ◉
+#EXTINF:0,RTL 4 HD (our love channal) ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259528
-#EXTINF:0,RTL5.nl,NL - RTL 5 HD ◉,
+#EXTINF:0,RTL 5 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259529
-#EXTINF:0, RTL7.nl,NL - RTL 7 HD ◉
+#EXTINF:0,RTL 7 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259531
-#EXTINF:0,RTL8.nl,NL - RTL 8 UHD
+#EXTINF:0,RTL 8 
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259532
-#EXTINF:0,RTLLounge.nl,NL - RTL LOUNGE
+#EXTINF:0,RTL LOUNGE
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259534
-#EXTINF:0,RTLZ.nl,NL - RTL Z HD ◉
+#EXTINF:0,RTL Z HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259535
-#EXTINF:0,SBS6.nl,NL - SBS 6 HD ◉
+#EXTINF:0,SBS 6 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259530
-#EXTINF:0,SBS9.nl,NL - SBS 9 HD ◉
+#EXTINF:0,SBS 9 HD ◉
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259536
-#EXTINF:0,ONS.nl,NL - ONS
+#EXTINF:0,ONS
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259600
-#EXTINF:0,AT5.nl,NL - AT 5
+#EXTINF:0,AT5 (Lov you Ellen Abdulfattah)
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259607
-#EXTINF:0,Film1Action.nl,NL - FILM 1 ACTION HD
+#EXTINF:0,FILM 1 ACTION HD
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259568
-#EXTINF:0,ext,NL - FILM 1 DRAMA HD
+#EXTINF:FILM 1 DRAMA HD
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259570
-#EXTINF:0,Film1Family.nl,NL - FILM 1 FAMILY HD
+#EXTINF:0,FILM 1 FAMILY HD
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259569
-#EXTINF:0,Film1Premiere.nl,NL - FILM 1 PREMIERE HD
+#EXTINF:0, FILM 1 PREMIERE HD
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259567
-#EXTINF:0,RTLCrime.nl,NL - RTL CRIME
-http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259533
-#EXTINF:0,FOX.nl,NL - FOX
+#EXTINF:0,FOX
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259537
-#EXTINF:0,ext,NL - E! HD
+#EXTINF:0,E! 
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259549
-#EXTINF:0,ComedyCentral.nl,NL - COMEDY CENTRAL
+#EXTINF:0,COMEDY CENTRAL
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259588
-#EXTINF:0,ext,NL - COMEDY CENTRAL EXTRA
+#EXTINF:0,COMEDY CENTRAL EXTRA
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259589
-#EXTINF:0,ext,NL - DISCOVERY
-http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259571
-#EXTINF:0,ext,NL - DISCOVERY INVESTIGATION HD
+#EXTINF:0,DISCOVERY
 #EXTINF:0,http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259574
-#EXTINF:0,ext,NL - DISCOVERY SCIENCE HD
+#EXTINF:0,DISCOVERY SCIENCE HD
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259572
-#EXTINF:0,ext,NL - DISCOVERY WORLD,
+#EXTINF:0,DISCOVERY WORLD,
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259573
 #EXTINF:0,TLC.nl,NL - TLC
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259542
-#EXTINF:0,ext,NL - CRIME INVESTIGATION
-http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259575
-#EXTINF:0,ext,NL - HISTORY HD
+#EXTINF:0,HISTORY HD
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259583
-#EXTINF:0,ext,NL - 24 KITCHEN
+#EXTINF:0,24 KITCHEN
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259585
-#EXTINF:0,ext,NL - MEZZO
+#EXTINF:0,MEZZO
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259628
-#EXTINF:0,ext,NL - NPO POLITIEK
+#EXTINF:0,NPO POLITIEK
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259603
 #EXTINF:0,ext,NL - NPO NIEUWS
 http://line.darktv-lite.me:80/20bca2b6b8/ff9b7930d0/259604
